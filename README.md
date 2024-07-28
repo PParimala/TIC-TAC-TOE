@@ -12,7 +12,7 @@ C++ compiler (e.g., g++)
 Installing
 Clone the repository:
 bash
-git clone https://github.com/yourusername/tic-tac-toe-cpp.git
+git clone https://github.com/PParimala/TIC-TAC-TOE
 cd tic-tac-toe-cpp
 Compile the program:
 
